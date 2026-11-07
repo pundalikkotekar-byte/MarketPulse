@@ -70,23 +70,18 @@ The project uses the Brazilian Olist E-Commerce dataset.
 ## Power BI Dashboards
 
 ### 1. Sales & Business Overview
-- Revenue and order KPIs
-- Average order value
-- Monthly sales trends
-- Top product categories
+
+![Sales Dashboard](screenshots/dashboard-1-sales.png)
 
 ### 2. Customer Intelligence
-- RFM customer segmentation
-- Repeat customer analysis
-- Purchase frequency
-- Customer recency and monetary analysis
+
+![Customer Dashboard](screenshots/dashboard-2-customers.png)
 
 ### 3. Product & Operations Performance
-- Product category revenue
-- Top seller performance
-- Monthly product revenue trends
-- Average delivery days by seller state
-- Customer review distribution
+
+![Operations Dashboard](screenshots/dashboard-3-operations.png)
+
+
 
 ## Dataset
 
